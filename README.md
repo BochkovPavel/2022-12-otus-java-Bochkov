@@ -1,5 +1,5 @@
 ## Бочков Павел Васильевич
-# Курс OTUS["Разработчик Java"](https://otus.ru/lessons/java-professional/?utm_source=github&utm_medium=free&utm_campaign=otus)
+# Курс OTUS ["Разработчик Java"](https://otus.ru/lessons/java-professional/?utm_source=github&utm_medium=free&utm_campaign=otus)
 Группа 2022-12
 ### Преподаватели
 Сергей Петрелевич<br>
@@ -8,5 +8,5 @@
 Вячеслав Лапин<br>
 Виталий Куценко
 
-# Список выполннных работ:
-1 HW-1
+### Список выполннных работ:
+ 1. Hw01-gradle
