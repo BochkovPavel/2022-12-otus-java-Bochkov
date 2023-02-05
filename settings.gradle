@@ -1,2 +1,4 @@
 rootProject.name = '2022-12-otus-java-Bochkov'
 include 'Hw01-gradle'
+include 'Hw04-generics'
+
